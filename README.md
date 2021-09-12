@@ -17,6 +17,7 @@ python3 principal.py
 
 ## Requisitos
 * Python 3 (Se recomienda la versión más actual de este lenguaje de programación).
+* Debe ser ejecutado con Sudo o directamente como usuario Root
 
 ## Advertencia
 * El uso de 'Blue Server' es responsabilidad de cada persona que haga uso de esta herramienta. El autor no asume ninguna responsabilidad y no es responsable de ningún uso indebido, daños, y/o consecuencias legales causados por este programa.
