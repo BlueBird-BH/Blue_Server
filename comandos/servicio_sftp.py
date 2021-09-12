@@ -13,6 +13,9 @@ def establecerConfiguracion():
     
     bash.ejecutarComando(f"cp {dirArchivo} {dirConfig_sftp}",
                          "Estableciendo configuracion del servicio SFTP")
+    
+    bash.ejecutarComando("systemctl restart sshd",
+                         "Reiniciando servicio SSH")
 
 
 def permitirUsuario():
