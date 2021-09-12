@@ -36,7 +36,7 @@ def tituloGestionGrupos():
     print("╠═════════════════════════════════════════════════╣")
 
 
-def tituloGestionServicios():
+def tituloGestionServicio():
     print("╔═════════════════════════════════════════════════╗")
     print("║             Gestionar servicio SFTP             ║")
     print("╠═════════════════════════════════════════════════╣")
